@@ -13,6 +13,7 @@ To build a classification model that prioritizes **Recall** (identifying as many
 
 
 ## 🛠️ Tech Stack & Techniques
+
 - **Python:** Pandas, NumPy, Scikit-Learn, Seaborn.
 - **Handling Imbalance:** Applied **SMOTE** (Synthetic Minority Over-sampling Technique) to balance the training data.
 - **Feature Engineering:** Log transformations for skewed data and Standard Scaling.
