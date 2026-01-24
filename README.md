@@ -9,6 +9,7 @@ This project focuses on predicting the likelihood of a stroke based on clinical 
 ## 🎯 Goal
 To build a classification model that prioritizes **Recall** (identifying as many actual stroke patients as possible) over general accuracy, which is critical in medical diagnostic use cases.
 
+
 ## 🛠️ Tech Stack & Techniques
 - **Python:** Pandas, NumPy, Scikit-Learn, Seaborn.
 - **Handling Imbalance:** Applied **SMOTE** (Synthetic Minority Over-sampling Technique) to balance the training data.
